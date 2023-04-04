@@ -1,0 +1,10 @@
+[
+    {
+        "package": "wikimapR",
+        "url": "https://github.com/e-kotov/wikimapR"
+    },
+     {
+        "package": "flows",
+        "url": "https://github.com/riatelab/flows/"
+    }
+]
